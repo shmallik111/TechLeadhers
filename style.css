@@ -1,0 +1,48 @@
+h1{
+  font: Arial, sans-serif;
+  background-color: #080838;
+  color:#ffffff;
+  border-block: 5px solid white;
+}
+
+h3{
+  font: 15px Arial, sans-serif;
+  background-color: #4A3267
+  color: #f7b9c4
+}
+
+
+img {
+  border-radius: 50%; 
+  border: 5px solid #3A0024;
+}
+
+button{
+  background-color: #080838;
+  font-size: medium;
+  text-align: center;
+  color: white
+}
+
+
+body {
+    background-color: #f3d9e5;
+    color: #333333;
+}
+
+
+body.dark-mode {
+    background-color: #333333;
+    color: #f3d9e5;
+    
+}
+
+
+.hidden-section {
+  display: none;
+}
+
+
+.visible-section {
+  display: block; 
+}
